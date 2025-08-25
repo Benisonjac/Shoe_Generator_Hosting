@@ -25,7 +25,7 @@ This project uses a fine-tuned Stable Diffusion model to generate unique and hig
 
 ## Run on Hugging Face Spaces
 
-[![Hugging Face Spaces](https://huggingface.co/spaces/roshanVarghese/TextToImageShoe)](https://huggingface.co/spaces/roshanVarghese/ShoeGenerator)
+[![Hugging Face Spaces](https://huggingface.co/spaces/benisonjac/deploy-stable-diffusion-finetuned-model)](https://huggingface.co/spaces/benisonjac/deploy-stable-diffusion-finetuned-model)
 
 
 ---
@@ -40,7 +40,7 @@ This project uses a fine-tuned Stable Diffusion model to generate unique and hig
 
 -   `app.py`: The main script that runs the Gradio web interface.
 -   `requirements.txt`: A list of Python packages required to run the project.
--   **Model**: The fine-tuned model is hosted on the Hugging Face Hub at [roshanVarghese/TextToImageShoe](https://huggingface.co/spaces/roshanVarghese/ShoeGenerator).
+-   **Model**: The fine-tuned model is hosted on the Hugging Face Hub at [roshanVarghese/TextToImageShoe](https://huggingface.co/spaces/benisonjac/deploy-stable-diffusion-finetuned-model).
 
 ---
 
