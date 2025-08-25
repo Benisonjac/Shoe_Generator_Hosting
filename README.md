@@ -64,7 +64,7 @@ You can customize the application by modifying the parameters in `app.py`:
 
 ```python
 # Model parameters
-MODEL_ID = "your-username/shoe-generator"
+MODEL_ID = "benisonjac/stable-diffusion-finetune"
 DEVICE = "cuda" if torch.cuda.is_available() else "cpu"
 
 # Gradio interface settings
