@@ -4,7 +4,3 @@ torch
 accelerate
 safetensors
 gradio
-
-streamlit
-huggingface_hub
-Pillow
