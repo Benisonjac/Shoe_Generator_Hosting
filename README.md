@@ -191,7 +191,7 @@ Contributions are welcome! Please feel free to submit a Pull Request. For major 
 
 ## 📞 Contact
 
-If you have questions or issues, please open an issue on this repository or contact [your-email@domain.com].
+If you have questions or issues, please open an issue on this repository.
 
 ---
 
